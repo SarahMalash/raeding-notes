@@ -4,7 +4,7 @@
 
 Read Num | Read Link
 ---------|----------
-Read 1   |
+Read 1   | 
 Read 2   |
 Read 3   |
 Read 4   |
