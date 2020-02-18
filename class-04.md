@@ -22,4 +22,3 @@ function hi(){
 
 ## calling a function:
 hi();
-
