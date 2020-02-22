@@ -6,7 +6,7 @@ Read Num | Read Link
 ---------|----------
 Read 1   | [link](https://sarahmalash.github.io/reading-notes/class01)
 Read 2   | [link](https://sarahmalash.github.io/reading-notes/class-02)
-Read 3   | 
+Read 3   | [link](https://sarahmalash.github.io/reading-notes/class-03)
 Read 4   | [link](https://sarahmalash.github.io/reading-notes/class-04)
 Read 5   | [link](https://sarahmalash.github.io/reading-notes/class-05)
 Read 6   |
