@@ -1,4 +1,4 @@
-# read 10
+# read 11
 Controlling sizes of images?
 You can control the size of an image using the width and height properties in CSS, just like any other box.
 ## using the float property to align images:
