@@ -1,15 +1,15 @@
 # read 12
-*Creating a Chart: nedds a script and a single <canvas> node to render the chart.*
+*Creating a Chart: nedds a script and a single < canvas> node to render the chart.*
 ## canvas:
- <canvas> looks like the <img> element, with the only clear difference being that it doesn't have the src and alt attributes
-  <canvas> element has only two attributes, width and height.
-  The <canvas> element can be styled just like any normal image
-  unlike the <img> element, the <canvas> element requires the closing tag (</canvas>)
+ < canvas> looks like the < img> element, with the only clear difference being that it doesn't have the src and alt attributes
+  < canvas> element has only two attributes, width and height.
+  The < canvas> element can be styled just like any normal image
+  unlike the < img> element, the < canvas> element requires the closing tag (</ canvas>)
   The canvas is initially blank. To display something, a script first needs to access the rendering context and draw on it.
-  The <canvas> element has a method called getContext(), used to obtain the rendering context and its drawing functions.
+  The < canvas> element has a method called getContext(), used to obtain the rendering context and its drawing functions.
 
 # Drawing rectangle:
-<canvas> only supports two primitive shapes: *rectangles and paths*
+< canvas> only supports two primitive shapes: *rectangles and paths*
 (All other shapes must be created by combining one or more paths)
 fillRect() function draws a large black square
 clearRect() function then erases a square from the center 
