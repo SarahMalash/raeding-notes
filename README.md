@@ -14,9 +14,9 @@ Read 7   | [linl](https://sarahmalash.github.io/reading-notes/class-07)
 Read 8   | [link](https://sarahmalash.github.io/reading-notes/class-08)
 Read 9   | [link](https://sarahmalash.github.io/reading-notes/class-09)
 Read 10  |
-Read 11  |
-Read 12  |
-Read 13  |
+Read 11  |[link](https://sarahmalash.github.io/reading-notes/read-11)
+Read 12  |[link](https://sarahmalash.github.io/reading-notes/class-12)
+Read 13  |[link](https://sarahmalash.github.io/reading-notes/class-13)
 Read 14  |
 Read 15  |
 
