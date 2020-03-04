@@ -17,8 +17,8 @@ Read 10  |
 Read 11  |[link](https://sarahmalash.github.io/reading-notes/read-11)
 Read 12  |[link](https://sarahmalash.github.io/reading-notes/class-12)
 Read 13  |[link](https://sarahmalash.github.io/reading-notes/class-13)
-Read 14  |
-Read 15  |
+Read 14  |[link](https://sarahmalash.github.io/reading-notes/class-14)
+Read 15  |[link](https://sarahmalash.github.io/reading-notes/class-15)
 
 
 
